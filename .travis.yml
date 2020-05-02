@@ -6,8 +6,6 @@ branches:
     - master
 script:
     - npm run build
-    - ls dist/*
-    - pwd
 deploy:
     provider: pages
     skip-cleanup: true
