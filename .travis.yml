@@ -5,7 +5,7 @@ branches:
   only:
   - master
 script:
-    - npm build
+    - npm run build
 deploy:
   provider: pages
   skip-cleanup: false
