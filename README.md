@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/gronono/webpack-ts-starter.svg?branch=master)](https://travis-ci.com/gronono/webpack-ts-starter)
+[![Build Status](https://travis-ci.org/gronono/webpack-ts-starter.svg?branch=master)](https://travis-ci.org/gronono/webpack-ts-starter)
 
 A starter for Webpack with TypeScript.
 
