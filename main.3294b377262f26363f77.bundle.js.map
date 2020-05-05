@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/main.ts"],"names":["console","log"],"mappings":"4EACAA,QAAQC,IAD6B,c","file":"main.3294b377262f26363f77.bundle.js","sourcesContent":["const sayHello: () => string = () => \"Hello TS\";\nconsole.log(sayHello());\n"],"sourceRoot":""}
